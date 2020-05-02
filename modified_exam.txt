@@ -1,0 +1,23 @@
+modified_exam.txt
+Wed Apr 11 13:15:44 CDT 2018
+
+SAQuestion
+5.0
+Hello?
+Hi.
+
+MCSAQuestion
+5.0
+What is this?
+2
+5.0 That
+0.0 This
+
+MCMAQuestion
+10.0
+Yo
+2.0
+2
+-2.0 YOSH
+8.0 YOP
+
